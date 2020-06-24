@@ -1,0 +1,15 @@
+C:\Users\myPC\source\repos\TinhTienDien\TinhTienDien\obj\Debug\netcoreapp3.1\TinhTienDien.csprojAssemblyReference.cache
+C:\Users\myPC\source\repos\TinhTienDien\TinhTienDien\obj\Debug\netcoreapp3.1\TinhTienDien.Form1.resources
+C:\Users\myPC\source\repos\TinhTienDien\TinhTienDien\obj\Debug\netcoreapp3.1\TinhTienDien.csproj.GenerateResource.cache
+C:\Users\myPC\source\repos\TinhTienDien\TinhTienDien\obj\Debug\netcoreapp3.1\TinhTienDien.AssemblyInfoInputs.cache
+C:\Users\myPC\source\repos\TinhTienDien\TinhTienDien\obj\Debug\netcoreapp3.1\TinhTienDien.AssemblyInfo.cs
+C:\Users\myPC\source\repos\TinhTienDien\TinhTienDien\obj\Debug\netcoreapp3.1\TinhTienDien.csproj.CoreCompileInputs.cache
+C:\Users\myPC\source\repos\TinhTienDien\TinhTienDien\bin\Debug\netcoreapp3.1\TinhTienDien.exe
+C:\Users\myPC\source\repos\TinhTienDien\TinhTienDien\bin\Debug\netcoreapp3.1\TinhTienDien.deps.json
+C:\Users\myPC\source\repos\TinhTienDien\TinhTienDien\bin\Debug\netcoreapp3.1\TinhTienDien.runtimeconfig.json
+C:\Users\myPC\source\repos\TinhTienDien\TinhTienDien\bin\Debug\netcoreapp3.1\TinhTienDien.runtimeconfig.dev.json
+C:\Users\myPC\source\repos\TinhTienDien\TinhTienDien\bin\Debug\netcoreapp3.1\TinhTienDien.dll
+C:\Users\myPC\source\repos\TinhTienDien\TinhTienDien\bin\Debug\netcoreapp3.1\TinhTienDien.pdb
+C:\Users\myPC\source\repos\TinhTienDien\TinhTienDien\obj\Debug\netcoreapp3.1\TinhTienDien.dll
+C:\Users\myPC\source\repos\TinhTienDien\TinhTienDien\obj\Debug\netcoreapp3.1\TinhTienDien.pdb
+C:\Users\myPC\source\repos\TinhTienDien\TinhTienDien\obj\Debug\netcoreapp3.1\TinhTienDien.genruntimeconfig.cache
